@@ -1,5 +1,5 @@
 [
   {
-    "module" : "a"
+    "module" : "c"
   }  
 ]
